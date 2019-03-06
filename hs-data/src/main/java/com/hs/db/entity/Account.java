@@ -1,10 +1,11 @@
-package com.hs.data.entity;
+package com.hs.db.entity;
 
 import javax.persistence.*;
 
 /**
  * Created by admin on 2019/3/6.
  */
+@Table(name = "account")
 @Entity
 public class Account {
 

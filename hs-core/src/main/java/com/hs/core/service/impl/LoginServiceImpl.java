@@ -2,8 +2,8 @@ package com.hs.core.service.impl;
 
 import com.hs.common.Result;
 import com.hs.core.service.ILoginService;
-import com.hs.data.dao.IAccountDao;
-import com.hs.data.entity.Account;
+import com.hs.db.dao.IAccountDao;
+import com.hs.db.entity.Account;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

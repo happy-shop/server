@@ -1,4 +1,4 @@
-package com.hs.data.cache;
+package com.hs.db.cache;
 
 import org.springframework.stereotype.Component;
 

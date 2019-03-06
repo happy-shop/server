@@ -1,6 +1,6 @@
-package com.hs.data.dao;
+package com.hs.db.dao;
 
-import com.hs.data.entity.PlatformInfo;
+import com.hs.db.entity.PlatformInfo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

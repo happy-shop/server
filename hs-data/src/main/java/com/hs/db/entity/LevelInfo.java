@@ -1,4 +1,4 @@
-package com.hs.data.entity;
+package com.hs.db.entity;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
