@@ -1,2 +1,3 @@
-# server
-happy shop server code
+# happy shop server project
+
+大家在develop分支上开发
